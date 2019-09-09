@@ -1,0 +1,45 @@
+.bit{
+	font-size: 33px;
+	font-style: cursive;
+	width: 300px;
+}
+.bitname{
+	font-size: 30px;
+}
+.nameinput{
+	font-size: 20px;
+	size: 300px;
+	border-radius: 5px;
+	width: 300px;
+
+}
+.telefoonnumerinput{
+	font-size: 20px;
+	size: 300px;
+	border-radius: 5px;
+	width: 300px;
+}
+.emailinput{
+	font-size: 20px;
+	size: 300px;
+	border-radius: 5px;
+	width: 300px;
+}
+.pininput{
+	font-size: 20px;
+	size: 300px;
+	border-radius: 5px;
+	width: 300px;
+}
+.submitbutton{
+	size: 100px;
+	background-color: grey;
+	border-radius: 5px;
+	width: 300px;
+}
+select{
+	border-radius: 5px;
+}
+input{
+	border-radius: 5px;
+}
